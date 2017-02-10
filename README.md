@@ -1,2 +1,5 @@
 # HelloWorld
-a simple project- introductory
+A simple project- introductory
+
+ 
+This is familiarization with github
